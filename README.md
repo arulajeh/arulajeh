@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Syahrulloh</h1>
 <h3 align="center">A passionate mobile developer from Indonesia</h3>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Rust**
 
-- 💬 Ask me about **Ionic, NodeJS**
+- 💬 Ask me about **NodeJS**
 
 - 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/syahrulloh1)
 
