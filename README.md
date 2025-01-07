@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Syahrulloh</h1>
-<h3 align="center">A passionate mobile developer from Indonesia</h3>
+<h3 align="center">A passionate backend developer from Indonesia</h3>
 
 - 🌱 I’m currently learning **Rust**
 
